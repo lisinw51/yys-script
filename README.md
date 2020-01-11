@@ -10,3 +10,7 @@ compare比较相似度测试一般0.9以上可以认为是相同图片
 cmd命令行 当前路径下python Controller.py即可运行
 
 请确保阴阳师pc端窗口没有缩放和移动（放置在最前端）
+
+请确保已经在python安装目录下的Script目录下已经安装了所需要的库包
+
+pip install ***
